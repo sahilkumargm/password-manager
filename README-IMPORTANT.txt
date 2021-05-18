@@ -28,7 +28,9 @@ ON YOUR MACHINE.
 
 
 						*************
-					V0.01
+					V0.2
 					CREATED BY SAHIL KUMAR
 					UPDATES COMING SOON!
 						*************
+
+UPDATED: 18TH MAY, 2021
